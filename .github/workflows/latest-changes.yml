@@ -24,7 +24,7 @@ jobs:
         with:
           # To allow latest-changes to commit to master
           token: ${{ secrets.ORG_REPO_TOKEN }}
-      - uses: docker://ghcr.io/khulnasoft/latest-changes-action:0.3.0
+      - uses: docker://ghcr.io/khulnasoft/latest-changes:0.3.0
       # - uses: khulnasoft/latest-changes@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
