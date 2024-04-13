@@ -413,6 +413,8 @@ You can click the "watch" button at the top right and select "Releases only" to 
 
 ### Latest Changes
 
+* ⬆ Bump docker/build-push-action from 2 to 5. PR [#1](https://github.com/khulnasoft/uwsgi-nginx-docker/pull/1) by [@dependabot[bot]](https://github.com/apps/dependabot).
+
 #### Features
 
 * 🔧 Avoid creating unnecessary `*.pyc` files with `PYTHONDONTWRITEBYTECODE=1` and ensure logs are printed immediately with `PYTHONUNBUFFERED=1`. PR [#208](https://github.com/khulnasoft/uwsgi-nginx-docker/pull/208) by [@estebanx64](https://github.com/estebanx64).
