@@ -413,6 +413,7 @@ You can click the "watch" button at the top right and select "Releases only" to 
 
 ### Latest Changes
 
+* ⬆ Bump peter-evans/dockerhub-description from 3 to 4. PR [#2](https://github.com/khulnasoft/uwsgi-nginx-docker/pull/2) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump docker/build-push-action from 2 to 5. PR [#1](https://github.com/khulnasoft/uwsgi-nginx-docker/pull/1) by [@dependabot[bot]](https://github.com/apps/dependabot).
 
 #### Features
