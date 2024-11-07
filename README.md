@@ -413,6 +413,7 @@ You can click the "watch" button at the top right and select "Releases only" to 
 
 ### Latest Changes
 
+* ⬆ Bump khulnasoft/issue-manager-action from 0.5.0 to 0.5.1. PR [#11](https://github.com/khulnasoft/uwsgi-nginx-docker/pull/11) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump uwsgi from 2.0.22 to 2.0.26. PR [#8](https://github.com/khulnasoft/uwsgi-nginx-docker/pull/8) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump docker/build-push-action from 5 to 6. PR [#9](https://github.com/khulnasoft/uwsgi-nginx-docker/pull/9) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump docker/setup-buildx-action from 1 to 3. PR [#3](https://github.com/khulnasoft/uwsgi-nginx-docker/pull/3) by [@dependabot[bot]](https://github.com/apps/dependabot).
