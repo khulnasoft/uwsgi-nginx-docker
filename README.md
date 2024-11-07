@@ -423,6 +423,10 @@ You can click the "watch" button at the top right and select "Releases only" to 
 
 * 🔧 Avoid creating unnecessary `*.pyc` files with `PYTHONDONTWRITEBYTECODE=1` and ensure logs are printed immediately with `PYTHONUNBUFFERED=1`. PR [#208](https://github.com/khulnasoft/uwsgi-nginx-docker/pull/208) by [@estebanx64](https://github.com/estebanx64).
 
+#### Upgrades
+
+* ⬆ Bump uwsgi from 2.0.26 to 2.0.28. PR [#12](https://github.com/khulnasoft/uwsgi-nginx-docker/pull/12) by [@dependabot[bot]](https://github.com/apps/dependabot).
+
 #### Internal
 
 * 🔧 Add GitHub templates for discussions and issues, and security policy. PR [#203](https://github.com/khulnasoft/uwsgi-nginx-docker/pull/203) by [@alejsdev](https://github.com/alejsdev).
