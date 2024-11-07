@@ -430,6 +430,7 @@ You can click the "watch" button at the top right and select "Releases only" to 
 
 #### Internal
 
+* 🔥 Remove old unused files. PR [#13](https://github.com/khulnasoft/uwsgi-nginx-docker/pull/13) by [@gitworkflows](https://github.com/gitworkflows).
 * 🔧 Add GitHub templates for discussions and issues, and security policy. PR [#203](https://github.com/khulnasoft/uwsgi-nginx-docker/pull/203) by [@alejsdev](https://github.com/alejsdev).
 * 🔧 Update `latest-changes.yml`. PR [#201](https://github.com/khulnasoft/uwsgi-nginx-docker/pull/201) by [@alejsdev](https://github.com/alejsdev).
 
